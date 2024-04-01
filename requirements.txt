@@ -1,0 +1,8 @@
+supervision
+ultralytics
+pandas
+plotly
+nbformat
+streamlit
+shapely
+lapx
